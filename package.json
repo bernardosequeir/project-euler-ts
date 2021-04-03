@@ -1,0 +1,37 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Problem1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "problem-1": "ts-node-dev problems/problem1.ts",
+    "problem-2": "ts-node-dev problems/problem2.ts",
+    "problem-3": "ts-node-dev problems/problem3.ts",
+    "problem-4": "ts-node-dev problems/problem4.ts",
+    "problem-5": "ts-node-dev problems/problem5.ts",
+    "problem-6": "ts-node-dev problems/problem6.ts",
+    "problem-7": "ts-node-dev problems/problem7.ts",
+    "problem-8": "ts-node-dev problems/problem8.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardosequeir/project-euler-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardosequeir/project-euler-js/issues"
+  },
+  "homepage": "https://github.com/bernardosequeir/project-euler-js#readme",
+  "dependencies": {
+    "ts-node-dev": "^1.1.6"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "eslint": "^7.21.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.2"
+  }
+}
