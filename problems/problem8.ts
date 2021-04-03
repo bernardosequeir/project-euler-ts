@@ -23,7 +23,6 @@ const checkForZero = (sequenceLength: number, startIndex: number, array: Array<n
       nextIndex = i + 1;
     }
   }
-  console.log(nextIndex);
 
   return nextIndex;
 };
@@ -31,9 +30,6 @@ const checkForZero = (sequenceLength: number, startIndex: number, array: Array<n
 const getMultiplicationSequence = (startIndex: number, sequenceLength: number, numberArray: Array<number>): number => numberArray.slice(startIndex, startIndex + sequenceLength).reduce((a, b) => (a * b), 1);
 
 const start = Date.now();
-console.log(1 / 0);
-
-console.log(checkForZero(13, 0, numberArray));
 console.log(findBiggestMultiplicationSequence(13, numberArray));
 const end = Date.now();
 
