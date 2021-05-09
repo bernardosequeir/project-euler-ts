@@ -11,5 +11,10 @@
     "alwaysStrict": true,
     "esModuleInterop": true,
     "declaration": true,
-  }
+    "target": "es6",
+    "lib": [
+      "esnext",
+      "dom"
+    ]
+  },
 }
