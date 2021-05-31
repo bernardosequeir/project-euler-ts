@@ -14,7 +14,13 @@
     "problem-7": "ts-node-dev src/problems/problem7.ts",
     "problem-8": "ts-node-dev src/problems/problem8.ts",
     "problem-9": "ts-node-dev src/problems/problem9.ts",
-    "problem-10": "ts-node-dev src/problems/problem10.ts"
+    "problem-10": "ts-node-dev src/problems/problem10.ts",
+    "problem-11": "ts-node-dev src/problems/problem11.ts",
+    "problem-12": "ts-node-dev src/problems/problem12.ts",
+    "problem-13": "ts-node-dev src/problems/problem13.ts",
+    "problem-14": "ts-node-dev src/problems/problem14.ts",
+    "problem-15": "ts-node-dev src/problems/problem15.ts",
+    "problem-16": "ts-node-dev src/problems/problem16.ts"
   },
   "repository": {
     "type": "git",
