@@ -3,9 +3,9 @@ const powerDigitSum = (power: number) => {
 
   const resultDigits = String(powerResult).split('').map(Number);
 
-  return resultDigits.reduce((sum, num) => sum + num, 0)
+  return resultDigits.reduce((sum, num) => sum + num, 0);
 
-}
+};
 
 const start = Date.now();
 console.log(powerDigitSum(1000));

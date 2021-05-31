@@ -20,13 +20,16 @@
     "problem-13": "ts-node-dev src/problems/problem13.ts",
     "problem-14": "ts-node-dev src/problems/problem14.ts",
     "problem-15": "ts-node-dev src/problems/problem15.ts",
-    "problem-16": "ts-node-dev src/problems/problem16.ts"
+    "problem-16": "ts-node-dev src/problems/problem16.ts",
+    "problem-18": "ts-node-dev src/problems/problem18.ts",
+    "problem-19": "ts-node-dev src/problems/problem19.ts",
+    "problem-20": "ts-node-dev src/problems/problem20.ts"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bernardosequeir/project-euler-js.git"
   },
-  "author": "",
+  "author": "Bernardo Sequeira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bernardosequeir/project-euler-js/issues"
